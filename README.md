@@ -1,4 +1,4 @@
-## Foundations II: JavaScript
+## Foundations II: JavaScript 
 ### Lab 2, Beginning Track
 
 1. Make sure you're logged in to your account on GitHub.
@@ -15,12 +15,3 @@ comments. Be sure to read everything. Run lab2.js with `node lab2.js`.
 
 
 #### Resources and Collaborators
-I used these resources in this lab2:
-while loop
-String.split()
-String.toUpperCase()
-Array.join()
-String.replace()
-String.charAt()
-
-
